@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chapter12_3_Blazor_Grpc.props" />
+</Project>

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "2K4ftU+oWUM0Zskm4+AL7S0sxOa+ckkZhBiGA5F4tRKIExxHSCocS8JEWsNvICG3tvB1zrvxoYvGfBpYDTc5xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\source\\repos\\DesignPatternsBook\\Chapter 04\\Chapter 04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1003\\microsoft.office.interop.word.15.0.4797.1003.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Office.Interop.Word 15.0.4797.1003' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Office.Interop.Word",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DesignPatternsBookChapter11.props" />
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\bin\Debug\net7.0\ChapterOne1.13.exe
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\bin\Debug\net7.0\ChapterOne1.13.deps.json
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\bin\Debug\net7.0\ChapterOne1.13.runtimeconfig.json
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\bin\Debug\net7.0\ChapterOne1.13.dll
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\bin\Debug\net7.0\ChapterOne1.13.pdb
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\obj\Debug\net7.0\ChapterOne1.13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\obj\Debug\net7.0\ChapterOne1.13.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\obj\Debug\net7.0\ChapterOne1.13.AssemblyInfo.cs
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\obj\Debug\net7.0\ChapterOne1.13.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\obj\Debug\net7.0\ChapterOne1.13.dll
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\obj\Debug\net7.0\refint\ChapterOne1.13.dll
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\obj\Debug\net7.0\ChapterOne1.13.pdb
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\obj\Debug\net7.0\ChapterOne1.13.genruntimeconfig.cache
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 01\ChapterOne1.13\obj\Debug\net7.0\ref\ChapterOne1.13.dll

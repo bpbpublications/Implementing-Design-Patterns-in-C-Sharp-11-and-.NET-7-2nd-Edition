@@ -1,0 +1,12 @@
+﻿@model List<string>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @foreach(var session in Model)
+    {
+        <h1>@session</h1><br />
+    }
+</div>

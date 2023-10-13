@@ -1,0 +1,15 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\obj\Debug\net7.0\Chapter1.csproj.AssemblyReference.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\obj\Debug\net7.0\Chapter1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\obj\Debug\net7.0\Chapter1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\bin\Debug\net7.0\Chapter1.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\bin\Debug\net7.0\Chapter1.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\bin\Debug\net7.0\Chapter1.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\bin\Debug\net7.0\Chapter1.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\bin\Debug\net7.0\Chapter1.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\obj\Debug\net7.0\Chapter1.csproj.CopyComplete
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\obj\Debug\net7.0\Chapter1.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\obj\Debug\net7.0\refint\Chapter1.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\obj\Debug\net7.0\Chapter1.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\obj\Debug\net7.0\Chapter1.genruntimeconfig.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsSecondEdition\obj\Debug\net7.0\ref\Chapter1.dll

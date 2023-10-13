@@ -1,0 +1,15 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\bin\Debug\net7.0\BPBDesignPatternsChapter15.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\bin\Debug\net7.0\BPBDesignPatternsChapter15.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\bin\Debug\net7.0\BPBDesignPatternsChapter15.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\bin\Debug\net7.0\BPBDesignPatternsChapter15.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\bin\Debug\net7.0\BPBDesignPatternsChapter15.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\obj\Debug\net7.0\BPBDesignPatternsChapter15.csproj.AssemblyReference.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\obj\Debug\net7.0\BPBDesignPatternsChapter15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\obj\Debug\net7.0\BPBDesignPatternsChapter15.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\obj\Debug\net7.0\BPBDesignPatternsChapter15.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\obj\Debug\net7.0\BPBDesignPatternsChapter15.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\obj\Debug\net7.0\BPBDesignPatternsChapter15.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\obj\Debug\net7.0\refint\BPBDesignPatternsChapter15.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\obj\Debug\net7.0\BPBDesignPatternsChapter15.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\obj\Debug\net7.0\BPBDesignPatternsChapter15.genruntimeconfig.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternsChapter15\obj\Debug\net7.0\ref\BPBDesignPatternsChapter15.dll

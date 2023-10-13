@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ChapterOne1.13/1.0.0": {
+        "runtime": {
+          "ChapterOne1.13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChapterOne1.13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\bin\Debug\net7.0\BPBBookChapter14.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\bin\Debug\net7.0\BPBBookChapter14.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\bin\Debug\net7.0\BPBBookChapter14.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\bin\Debug\net7.0\BPBBookChapter14.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\bin\Debug\net7.0\BPBBookChapter14.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\obj\Debug\net7.0\BPBBookChapter14.csproj.AssemblyReference.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\obj\Debug\net7.0\BPBBookChapter14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\obj\Debug\net7.0\BPBBookChapter14.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\obj\Debug\net7.0\BPBBookChapter14.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\obj\Debug\net7.0\BPBBookChapter14.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\obj\Debug\net7.0\BPBBookChapter14.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\obj\Debug\net7.0\refint\BPBBookChapter14.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\obj\Debug\net7.0\BPBBookChapter14.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\obj\Debug\net7.0\BPBBookChapter14.genruntimeconfig.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBBookChapter14\obj\Debug\net7.0\ref\BPBBookChapter14.dll

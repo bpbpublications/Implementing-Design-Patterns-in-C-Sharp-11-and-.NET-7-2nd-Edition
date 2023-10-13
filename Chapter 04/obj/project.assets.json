@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Microsoft.Office.Interop.Word/15.0.4797.1003": {
+        "type": "package",
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Word.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Office.Interop.Word/15.0.4797.1003": {
+      "sha512": "p22pljmHaQjDxNLqO+uO5vi3y0TK5t1mAtSAg93K28/e12Hw3qzfflAo6XHvNXxnvz9HZGv59vLCwIaC9xbXNQ==",
+      "type": "package",
+      "path": "microsoft.office.interop.word/15.0.4797.1003",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Microsoft.Office.Interop.Word.dll",
+        "microsoft.office.interop.word.15.0.4797.1003.nupkg.sha512",
+        "microsoft.office.interop.word.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Microsoft.Office.Interop.Word >= 15.0.4797.1003"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alexa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\DesignPatternsBook\\Chapter 04\\Chapter 04.csproj",
+      "projectName": "Chapter 04",
+      "projectPath": "C:\\Users\\alexa\\source\\repos\\DesignPatternsBook\\Chapter 04\\Chapter 04.csproj",
+      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexa\\source\\repos\\DesignPatternsBook\\Chapter 04\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Microsoft.Office.Interop.Word": {
+            "target": "Package",
+            "version": "[15.0.4797.1003, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Office.Interop.Word 15.0.4797.1003' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Office.Interop.Word",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Chapter2._2._2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7208",
+      "launchBrowser": false
+    }
+  }
+}

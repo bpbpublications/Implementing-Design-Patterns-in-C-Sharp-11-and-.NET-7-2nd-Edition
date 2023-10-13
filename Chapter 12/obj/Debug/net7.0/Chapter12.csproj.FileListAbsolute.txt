@@ -1,0 +1,15 @@
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\bin\Debug\net7.0\Chapter12.exe
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\bin\Debug\net7.0\Chapter12.deps.json
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\bin\Debug\net7.0\Chapter12.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\bin\Debug\net7.0\Chapter12.dll
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\bin\Debug\net7.0\Chapter12.pdb
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\obj\Debug\net7.0\Chapter12.csproj.AssemblyReference.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\obj\Debug\net7.0\Chapter12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\obj\Debug\net7.0\Chapter12.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\obj\Debug\net7.0\Chapter12.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\obj\Debug\net7.0\Chapter12.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\obj\Debug\net7.0\Chapter12.dll
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\obj\Debug\net7.0\refint\Chapter12.dll
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\obj\Debug\net7.0\Chapter12.pdb
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\obj\Debug\net7.0\Chapter12.genruntimeconfig.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapter12\obj\Debug\net7.0\ref\Chapter12.dll

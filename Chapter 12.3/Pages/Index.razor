@@ -1,0 +1,28 @@
+﻿@page "/"
+@using Grpc.Net.Client;
+@using Grpc.Net.Client.Web;
+
+<PageTitle>Index</PageTitle>
+
+<h1>Grpc Response</h1>
+
+<p>@helloReply.Message</p>
+
+@code{
+    private HelloReply helloReply = new HelloReply();
+
+    protected override async Task OnInitializedAsync()
+    {
+        using
+        var channel = GrpcChannel.ForAddress("https://localhost:7272/", 
+        new GrpcChannelOptions
+            {
+                HttpHandler = new GrpcWebHandler(new HttpClientHandler())
+            });
+        var client = new Greeter.GreeterClient(channel);
+        helloReply = await client.SayHelloAsync(new HelloRequest
+        {
+        });
+    }
+}
+

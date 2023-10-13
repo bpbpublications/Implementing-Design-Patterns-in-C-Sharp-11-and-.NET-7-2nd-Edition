@@ -1,0 +1,27 @@
+﻿@page "/"
+@using Chapter7.Models;
+
+@if(prePaidPlanClient != null)
+{
+    <b>Pre-paid plan:</b>
+    <p>
+        @prePaidPlanClient.Describe();
+    </p>
+}
+
+@if (postPaidPlanClient != null)
+{
+        <b>Post-paid plan:</b>
+        <p>
+        @postPaidPlanClient.Describe();
+        </p>
+}
+
+@code{
+    MobilePlanClient prePaidPlanClient = 
+    new MobilePlanClient(MobilePlan.Prepaid);
+
+    MobilePlanClient postPaidPlanClient = new 
+    MobilePlanClient(MobilePlan.Postpaid);
+
+}

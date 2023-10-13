@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IO7c7usI03f4PS2UuXUv6+V0+/JgxDvA6CoLwg+e3T/TFVKJXxw0f2NvHHH9lHACEK+UnjFnpqL8ns/nYdS4gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexandre Malavasi\\source\\repos\\DesignPatternsBookChapter10\\DesignPatternsBookChapter10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexandre Malavasi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

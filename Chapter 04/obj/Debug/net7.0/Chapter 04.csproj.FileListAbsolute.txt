@@ -1,0 +1,12 @@
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 04\bin\Debug\net7.0\Chapter 04.deps.json
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 04\bin\Debug\net7.0\Chapter 04.dll
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 04\bin\Debug\net7.0\Chapter 04.pdb
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 04\obj\Debug\net7.0\Chapter 04.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 04\obj\Debug\net7.0\Chapter 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 04\obj\Debug\net7.0\Chapter 04.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 04\obj\Debug\net7.0\Chapter 04.AssemblyInfo.cs
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 04\obj\Debug\net7.0\Chapter 04.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 04\obj\Debug\net7.0\Chapter 04.dll
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 04\obj\Debug\net7.0\refint\Chapter 04.dll
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 04\obj\Debug\net7.0\Chapter 04.pdb
+C:\Users\alexa\source\repos\DesignPatternsBook\Chapter 04\obj\Debug\net7.0\ref\Chapter 04.dll

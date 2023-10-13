@@ -1,0 +1,15 @@
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\bin\Debug\net7.0\Chapterr9.exe
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\bin\Debug\net7.0\Chapterr9.deps.json
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\bin\Debug\net7.0\Chapterr9.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\bin\Debug\net7.0\Chapterr9.dll
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\bin\Debug\net7.0\Chapterr9.pdb
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\obj\Debug\net7.0\Chapterr9.csproj.AssemblyReference.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\obj\Debug\net7.0\Chapterr9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\obj\Debug\net7.0\Chapterr9.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\obj\Debug\net7.0\Chapterr9.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\obj\Debug\net7.0\Chapterr9.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\obj\Debug\net7.0\Chapterr9.dll
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\obj\Debug\net7.0\refint\Chapterr9.dll
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\obj\Debug\net7.0\Chapterr9.pdb
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\obj\Debug\net7.0\Chapterr9.genruntimeconfig.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapterr9\obj\Debug\net7.0\ref\Chapterr9.dll

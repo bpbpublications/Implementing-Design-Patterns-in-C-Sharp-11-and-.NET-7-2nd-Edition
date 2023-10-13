@@ -1,0 +1,31 @@
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\bin\Debug\net7.0\Chapter 6 MVC.staticwebassets.runtime.json
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\bin\Debug\net7.0\Chapter 6 MVC.exe
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\bin\Debug\net7.0\Chapter 6 MVC.deps.json
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\bin\Debug\net7.0\Chapter 6 MVC.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\bin\Debug\net7.0\Chapter 6 MVC.dll
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\bin\Debug\net7.0\Chapter 6 MVC.pdb
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\Chapter 6 MVC.csproj.AssemblyReference.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\Chapter 6 MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\Chapter 6 MVC.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\Chapter 6 MVC.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\Chapter 6 MVC.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\Chapter 6 MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\Chapter 6 MVC.RazorAssemblyInfo.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\Chapter 6 MVC.RazorAssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\staticwebassets\msbuild.Chapter 6 MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.Chapter 6 MVC.props
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Chapter 6 MVC.props
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Chapter 6 MVC.props
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\scopedcss\bundle\Chapter 6 MVC.styles.css
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\scopedcss\projectbundle\Chapter 6 MVC.bundle.scp.css
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\Chapter 6 MVC.dll
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\refint\Chapter 6 MVC.dll
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\Chapter 6 MVC.pdb
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\Chapter 6 MVC.genruntimeconfig.cache
+C:\Users\Alexandre Malavasi\source\repos\Chapter 6 MVC\obj\Debug\net7.0\ref\Chapter 6 MVC.dll
